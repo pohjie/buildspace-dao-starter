@@ -1,10 +1,10 @@
 html,
 body {
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #65880f;
   color: #fff;
   overflow-x: hidden;
 }
@@ -93,7 +93,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #ab4b52;
 }
 
 .member-page form .card > div {
@@ -120,11 +120,11 @@ button {
   color: #fff;
   border: none;
   font-weight: bold;
-  font-family: inherit;
+  font-family: Georgia;
   padding: 1.2rem 2rem;
   text-transform: uppercase;
   border-radius: 3rem;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 button:hover {
